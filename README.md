@@ -1,0 +1,4 @@
+SAS_Parsing
+===========
+
+This is an easy Desktop application to parse the output of the statistics software SAS and produce tables with the desired info in .csv for visualization using a simple excel spreadsheet
